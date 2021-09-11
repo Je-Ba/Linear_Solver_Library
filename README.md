@@ -1,5 +1,3 @@
-# Team Void ACSE-5 Group Assignment
-
 ### Implementing Linear Solvers
 
 Within this Advanced Programming Assignment the project aimed to implement an algorithm to solve the linear system *A* *x* = *b*, where A is a positive definite matrix, with x and b being vectors.
@@ -17,7 +15,7 @@ IDE or C++ compiler of choice. Recommendations listed below:
 * Visual Studio Code
 
 ##### Installation
-Clone or download the [Team Void github repository](https://github.com/acse-2020/group-project-team-void) to your local machine
+Clone or download the the repo to your local machine.
 
 ##### Using
 For use of the program will depend on your OS and IDE/compiler of choice:
@@ -160,4 +158,8 @@ Testing files, main_tests_components.cpp and main_tests_solvers.cpp are present 
 
 For further reading/information on specific methods please refer to documentation.md.
 
-###### Team-Void ACSE-5
+###### Team
+This project was part of the master course and 3 people have worked on it:
+- Andrea Pozzetti
+- Jamesson Ipock
+- Jens Bauer
